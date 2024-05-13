@@ -6,6 +6,7 @@ using namespace std;
 
 int main(){
   int n;
+  int a;
   int maxNum = 0;
   string name;
   map<string, int> m;
